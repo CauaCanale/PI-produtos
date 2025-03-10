@@ -9,7 +9,7 @@
     list-style: none;
 }
 
-.produtos-tela h1{
+#produtos-tela h1{
     text-align: center;
     display: flex;
     justify-content: center;
