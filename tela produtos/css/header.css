@@ -18,10 +18,10 @@ header nav{
 
 .menu{
     display: flex;
-    gap:70px;
+    gap:50px;
     font-size: 20px;
     position: relative;
-    right: -60px;
+    right: -78px;
 }
 
 .menu li a{
